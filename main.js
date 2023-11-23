@@ -1,6 +1,6 @@
 "use strict";
 
-// === Секундомер ===
+// === Секундомер ===аег
 
 const counterElement = document.querySelector('#counter')
 let counter = 0;
